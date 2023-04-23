@@ -1,0 +1,1 @@
+# MSZO_Python_HPC_kurzus
